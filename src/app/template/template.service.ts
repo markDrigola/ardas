@@ -40,4 +40,9 @@ export class TemplateService {
               })
           );
   }
+
+  public setTemplateById(id: number) {
+
+  }
+
 }
